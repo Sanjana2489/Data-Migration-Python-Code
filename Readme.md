@@ -1,5 +1,3 @@
-#Data Migration Using Python
-
 This Python script defines a class DatabaseMigration that facilitates the migration of data between two PostgreSQL databases. The main tasks include:
 
 Extracting Data: It fetches data from the source database in manageable chunks to avoid memory overload.
